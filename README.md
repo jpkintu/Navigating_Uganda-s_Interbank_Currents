@@ -1,5 +1,3 @@
-<h1 style="text-align: center;">Navigating Uganda’s Interbank Currents: A Data Odyssey</h1>
-
 <img src="Assets/Tableau Charts/Dashboard 2.png" alt="d2"/>
 
 ## Introduction
